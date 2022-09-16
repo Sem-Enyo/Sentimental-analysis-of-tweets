@@ -6,3 +6,4 @@ Tweets between 29th August and 11th September of Graham Potter(Chelse Head Coach
 Sentimental analysis was performed on each tweet to determine its highest sentiment label score.  Either Negative, Positive or Neutral.
 The result was used to create a visualisation in tableau.
 https://public.tableau.com/app/profile/winnard.semenyo.tutu.brempong/viz/GrahamPotter-relatedtweetssentimentalanalysis/Dashboard1
+#Ackwoledging youtube channel of 'Mehranshakarami' for the tutorials
